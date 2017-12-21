@@ -1,3 +1,0 @@
-Reverse
-This is the second text file that we are making.
-Second change.
